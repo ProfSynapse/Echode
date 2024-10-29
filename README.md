@@ -13,26 +13,6 @@
    - **/c**: Output the full code of the file currently being edited.
 3. **Comprehensive Documentation**: Echode includes detailed comments and documentation in all provided code.
 
----
-## Usage
-
-Engage with Echode using the provided commands and follow these examples to get started:
-
-1. **Explain a Concept**:
-    ```sh
-    /? Explain the difference between lists and tuples in Python.
-    ```
-
-2. **Debug an Issue**:
-    ```sh
-    /! I'm getting an IndexError in my loop, can you help?
-    ```
-
-3. **Output Full Code**:
-    ```sh
-    /c
-    ```
-
 You can interact with Echode directly by visiting the [GPT Link](https://chatgpt.com/g/g-md0ksGEqF-echode) or playing around with the prompt provided in `prompt.txt`.
 
 ---
