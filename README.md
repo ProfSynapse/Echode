@@ -6,8 +6,6 @@
 
 You can interact with Echode directly by visiting the [GPT Link](https://chatgpt.com/g/g-md0ksGEqF-ecode) or playing around with the prompt provided in `prompt.txt`.
 
->**Note**: The GPTPrompt.txt is ChatGPT specific to use it's tools effectively.
-
 ---
 # Contributions and Support
 Feel free to explore, customize, and innovate with ECode! Please leave a ⭐ if you found this helpful.
